@@ -6,7 +6,7 @@
 
 [![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abee-tech&hide=issues&count_private=true&show_icons=true&theme=light)](https://github.com/abee-tech)
 
-<audio controls autoplay>
+<audio controls>
   <source src="https://www.chosic.com/wp-content/uploads/2021/11/jingle-bells-violin-main.mp3" type="audio/mp3">
 </audio>
 
