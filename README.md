@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABee-Tech
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning React, Node.js and RDBMS
+- 🌱 I’m currently learning and working on React, Node.js and RDBMS
 - 💞️ I’m looking to collaborate on open source projects
 
 
