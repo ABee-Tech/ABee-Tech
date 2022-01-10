@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Abhishek Raj Pandey
 
-## About Me 🧑‍💻
+## 🧑‍💻 About Me 🧑‍💻
 - 👀 I’m interested in JavaScript and TypeScript
 - 🌱 I’m currently learning and working on TypeScript, React, Node.js and RDBMS
 - 💞️ I’m looking to collaborate on open source projects
 
-## Stacks 📚
+## 🚀 Stacks 🚀
 
 ![JavaScript](https://user-images.githubusercontent.com/42933600/148687156-ebcef1f1-c7b1-4c91-b756-834198d63af9.png)
 ![TypeScript](https://user-images.githubusercontent.com/42933600/148687162-bc0c498b-4801-4523-8709-a0471488c850.png)
