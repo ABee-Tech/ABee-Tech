@@ -1,9 +1,12 @@
 # 👋 Hi, I’m Abhishek Raj Pandey
 
 ## 🧑‍💻 About Me
+
 - 👀 I’m interested in JavaScript and TypeScript
 - 🌱 I’m currently learning and working on TypeScript, React, Node.js and RDBMS
 - 💞️ I’m looking to collaborate on open source projects
+
+
 
 ## 🚀 Stacks
 
@@ -16,6 +19,7 @@
 ![CSS3](https://user-images.githubusercontent.com/42933600/148687151-1ccb7aa4-8b3f-484f-83f1-7990d982ae62.png)
 
 
+## 📈 Stats
 
 <table>
 <tr>
@@ -23,3 +27,7 @@
 <th> <img class="center-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=calm"> </th>
 </tr>
 </table>
+
+
+## 📞 Connect With Me
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ABee-Tech/)
