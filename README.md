@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abhishek Raj Pandey
+# 👋 Hi, I’m a Software Engineer
 
 ## 🧑‍💻 About Me
 
@@ -27,7 +27,3 @@
 <th> <img class="center-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=calm"> </th>
 </tr>
 </table>
-
-
-## 📞 Connect With Me
-[Connect with me on LinkedIn](https://www.linkedin.com/in/ABee-Tech/)
