@@ -1,5 +1,3 @@
-# 👋 Hi, I’m a Software Engineer
-
 ## 🧑‍💻 About Me
 
 - 👀 I’m interested in JavaScript and TypeScript
