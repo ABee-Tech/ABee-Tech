@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ABee-Tech/ABee-Tech](https://github.com/ABee-Tech/ABee-Tech)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|1<br/>Tools used|12/22/23 <br/>Report generated|
+|1<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
