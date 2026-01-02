@@ -40,11 +40,3 @@
 [![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org)
 
 
-## 📈 Stats
-
-<table>
-<tr>
-<th> <img class="center-block" src="https://github-readme-stats.vercel.app/api?username=abee-tech&hide=issues&count_private=true&show_icons=true&theme=calm"> </th>
-<th> <img class="center-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=calm"> </th>
-</tr>
-</table>
